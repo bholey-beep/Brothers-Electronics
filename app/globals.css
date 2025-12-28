@@ -6,16 +6,16 @@ body {
       padding: 0;
       
       font-family: 'Inter', sans-serif;
-      background: 
+      background: black
 
-  radial-gradient(circle, rgb(135, 125, 125) 0.1%, transparent 5%),
+  /* radial-gradient(circle, rgb(135, 125, 125) 0.1%, transparent 5%),
   radial-gradient(circle, rgba(161, 54, 183, 0.934) 1%, transparent 5%),
   radial-gradient(circle, rgba(131, 23, 125, 0.941) 2%, transparent 2%),
   
   radial-gradient(circle, rgb(131, 39, 174) 5%, transparent 10%),
   radial-gradient(circle, rgb(153, 0, 255) 1%, transparent 30%),
   radial-gradient(circle, rgb(0, 0, 0) 100%, transparent 10%);
-   height:1px;
+   height:1px; */
    
    
        /* height:6000px; */
